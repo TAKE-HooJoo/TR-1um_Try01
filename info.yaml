@@ -6,10 +6,10 @@
 # OpenSUSI TR-1um MPW project information
 #
 project:
-  title:        ""      # Project title
-  author:       ""      # Your name
+  title:        "TR-1um SRAM test"      # Project title
+  author:       "Takehiko Hojo"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # One line description of what your project does
+  description:  "SRAM test layout for TR-1um MPW"      # One line description of what your project does
 
 # Your top module name must start with "tr_1um_". Make it unique by including your github username:
 # GDSII filename must be top_cell + "." + extension and placed in src/ directory.
